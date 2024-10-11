@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Spicy Rice", serif;
+    --fonte-secundaria: "Protest Strike", sans-serif; /* Added semicolon */
+    --midnight-green: #1a535cff;
+    --robin-egg-blue: #4ecdc4ff;
+    --mint-cream: #f7fff7ff;
+    --light-red: #ff6b6bff;
+    --naples-yellow: #ffe66dff;
+}
